@@ -1,2 +1,1 @@
-# HangMan
-hello everybody!
+print ofir
